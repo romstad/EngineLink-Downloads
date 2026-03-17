@@ -16,10 +16,10 @@ Your computer runs the chess engine; your phone sends it positions and receives 
 
 | Platform | Download | Notes |
 |---|---|---|
-| macOS | [EngineLink.dmg](https://github.com/romstad/EngineLink-Downloads/releases/download/v0.1.0/EngineLink-0.1.0.dmg) | Stockfish engine included |
+| macOS (Apple Silicon) | [EngineLink.dmg](https://github.com/romstad/EngineLink-Downloads/releases/download/v0.1.0/EngineLink-0.1.0.dmg) | Stockfish engine included |
 | Windows | [EngineLink-Setup.exe](https://github.com/romstad/EngineLink-Downloads/releases/download/v0.1.0/EngineLink_0.1.0_x64-setup.exe.zip) | Stockfish download required (see below) |
-| Linux (GUI) | [EngineLink.AppImage](https://github.com/romstad/EngineLink-Downloads/releases/download/v0.1.0/EngineLink_0.1.0_amd64.AppImage) · [EngineLink.deb](https://github.com/romstad/EngineLink-Downloads/releases/download/v0.1.0/EngineLink_0.1.0_amd64.deb) | Stockfish download required (see below) |
-| Linux (Terminal) | [enginelink.gz](https://github.com/romstad/EngineLink-Downloads/releases/download/v0.1.0/enginelink-amd64.gz) | For terminal/server use; Stockfish download required (see below) |
+| Linux x86_64 (GUI) | [EngineLink.AppImage](https://github.com/romstad/EngineLink-Downloads/releases/download/v0.1.0/EngineLink_0.1.0_amd64.AppImage) · [EngineLink.deb](https://github.com/romstad/EngineLink-Downloads/releases/download/v0.1.0/EngineLink_0.1.0_amd64.deb) | Stockfish download required (see below) |
+| Linux x86_64 (Terminal) | [enginelink.gz](https://github.com/romstad/EngineLink-Downloads/releases/download/v0.1.0/enginelink-amd64.gz) | For terminal/server use; Stockfish download required (see below) |
 
 ---
 
